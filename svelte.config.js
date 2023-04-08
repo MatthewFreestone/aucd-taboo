@@ -16,7 +16,7 @@ const config = {
 			strict: true
 		}),
 		paths: {
-			base: dev ? '' : '/aucd-taboo'
+			base: dev ? '' : ''
 		}
 	},
 	preprocess: vitePreprocess()
